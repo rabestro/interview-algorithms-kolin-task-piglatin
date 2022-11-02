@@ -1,7 +1,8 @@
 package piglatin
 
-object PigLatin {
-    fun translate(phrase: String) {
+class PigLatin {
+
+    fun translate(phrase: String): String {
         TODO("Implement function")
     }
 }
